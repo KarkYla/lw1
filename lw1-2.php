@@ -17,4 +17,3 @@ if ($skidka > 0) {
 echo "Сумма покупки: $sum\n";
 echo "Скидка: $skidka%\n";
 echo "Итоговая сумма: $finalSUM\n";
-?>

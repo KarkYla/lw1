@@ -7,4 +7,3 @@ if ($str === $reversed) {
 } else {
     echo "число $number не читается одинаково\n";
 }
-?>
